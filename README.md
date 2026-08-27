@@ -1,9 +1,8 @@
 ### Hi there 👋 I'm Kota Urushigaki
 
-- 🎓 Computer Science major (at 4th year) @ The University of Osaka
+- 🎓 Computer Science major @ The University of Osaka
 - 🎓 Exchange for 2 semesters @ Technical University of Munich
-- 🛡️ Aspiring Security Engineer (Red Team)
-
+- 
 ---
 
 ### 🔍 What I'm Currently Working On
