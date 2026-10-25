@@ -1,56 +1,48 @@
-### Hi there 👋 I'm Kota Urushigaki
+### Hi, I’m Kota Urushigaki（漆垣 皓大）👋
 
-- 🎓 Computer Science major @ The University of Osaka
-- 🎓 Exchange for 2 semesters @ Technical University of Munich
-- 
----
+Security researcher at the Isobe Laboratory, The University of Osaka. I study the security of cryptographic protocols that people rely on every day, especially secure messengers: I analyze the code these apps actually ship, turn design flaws into practical attacks, and disclose them to the developers.
 
-### 🔍 What I'm Currently Working On
-
-- Practicing offensive security skills through [TryHackMe](https://tryhackme.com/)
-- Conducting research in cryptography at my university lab
+📫 **Looking for summer 2027 research internships in applied cryptography and protocol security.**
 
 ---
 
-### 🎯 Goals & Interests
+### 🔬 Research
 
-- Aiming to become a professional Penetration Tester and Red Team specialist  
-- Strong interest in offensive security, ethical hacking, and cyber operations  
-- Passionate about working internationally in the field of cybersecurity
+**Practical Attacks on a Decentralized Secure Messenger Session** — *USENIX WOOT ’26* (first author)
+Three new attacks on Session’s deployed protocol: impersonation by a malicious server node, timestamp forgery by any chat partner, and message dropping and replay.
+[Paper](https://www.usenix.org/conference/woot26/presentation/urushigaki) · [ePrint](https://eprint.iacr.org/2026/1247) · [Artifact](https://github.com/kota5140/session-woot) · [Blog post](https://kota5140.github.io/posts/session-attacks.html)
 
----
+An earlier version of the impersonation attack was presented at SCIS 2026 (in Japanese).
 
-### 🛠️ Tech Stack & Tools
-
-#### 💻 Languages
-- 🐍 Python   🐚 Bash (learning)   💻 C   🌐 JavaScript / TypeScript   🪙 Solidity
-
-#### 🧰 Security Tools
-- 🧪 Wireshark  🕷️ Burp Suite  🛠️ Metasploit  🔍 Nmap
-
-#### 🧑‍💻 Platforms & Environments
-- 🐧 Linux (Ubuntu, Kali Linux 🧑‍🎓 learning)  
-- 📦 Docker  🏗️ TryHackMe
-
-#### 📂 Others
-- 🧠 CTF basics  🔐 Smart contract security  🌍 GitHub
+**Next:** reverse engineering proprietary cryptographic protocols and modeling them in Tamarin (master’s research, from April 2027).
 
 ---
 
-### 🧗 TryHackMe Progress
+### 🧭 Now
 
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/kota5140.png)
-
----
-
-### 🔗 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/kotaursgk/)  
-- [TryHackMe](https://tryhackme.com/p/kota5140) (currently active)
+- Specially Appointed Researcher, Isobe Laboratory, The University of Osaka
+- Incoming master’s student in Information Science, The University of Osaka (April 2027)
+- Cloud security engineer (part-time) at Novagrid, securing Azure and Google Cloud infrastructure
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Toolbox
 
-![Kota's GitHub stats](https://github-readme-stats.vercel.app/api?username=kota5140&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kota5140&layout=compact&theme=tokyonight)
+- **Protocol analysis:** Tamarin prover, Frida, Wireshark, Burp Suite
+- **Languages:** Python, C, Rust, JavaScript / TypeScript, Bash, Solidity
+- **Infrastructure:** Docker, Linux, Microsoft Azure, Google Cloud
+- **Zero knowledge:** ZK proof systems and circuit development
+
+---
+
+### 🎓 Background
+
+- B.Eng. in Computer Science, The University of Osaka (2022–2026)
+- Exchange student in Informatics, Technical University of Munich (2024–2025)
+- Bronze prize, ETHTokyo 2024 hackathon · PSE Core Program Japan, Ethereum Foundation
+
+---
+
+### 🔗 Links
+
+[Portfolio](https://kota5140.github.io) · [LinkedIn](https://www.linkedin.com/in/kotaursgk/) · [ORCID](https://orcid.org/0009-0002-5184-3131) · [Email](mailto:k.urushigaki@ist.osaka-u.ac.jp)
